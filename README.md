@@ -1,10 +1,14 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/>
 </div>
 
+My name is Monika and I am a student of Computer Science.
 
+**Technologies I am familiar with:**
 
+<div>
+<img src="C:\Users\Monika\Documents\GitHub\AboutMe\Invisi3le\devicon-master\icons\cplusplus\cplusplus-original.svg">
+</div>
 
 <!--
 **Invisi3le/Invisi3le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-My name is Monika and I am a student of Computer Science. 
+My name is Monika and I am a student of Computer Science.
 
 Technologies I am familiar with:
 

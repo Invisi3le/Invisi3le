@@ -12,7 +12,6 @@ My name is Monika and I am a student of Computer Science.
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" Width="40px" Height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" Width="40px" Height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Html" Width="40px" Height="40px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Html" Width="40px" Height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" Width="40px" Height="40px"/>
 
 </div>

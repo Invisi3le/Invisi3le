@@ -9,6 +9,12 @@ My name is Monika and I am a student of Computer Science.
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" Width="40px" Height="40px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" Width="40px" Height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" Width="40px" Height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" Width="40px" Height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Html" Width="40px" Height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Html" Width="40px" Height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" Width="40px" Height="40px"/>
+
 </div>
 <!--
 **Invisi3le/Invisi3le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

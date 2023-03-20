@@ -4,7 +4,7 @@
 
 My name is Monika and I am a student of Computer Science.
 
-<h2 style="color: orange;">Technologies I am familiar with:<h2>
+<h1 style="font-size:3rem;color:orange;"> Technologies I'm familiar with: </h1>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" Width="40px" Height="40px"/>

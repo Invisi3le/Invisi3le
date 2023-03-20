@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/>
 </div>
 
-My name is Monika and I am a student of Computer Science.:Wave:
+My name is Monika and I am a student of Computer Science. :wave:
 
 <h2> Technologies I'm familiar with: </h2>
 

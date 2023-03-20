@@ -6,9 +6,7 @@ My name is Monika and I am a student of Computer Science.
 
 **Technologies I am familiar with:**
 
-<div>
-<img src="C:\Users\Monika\Documents\GitHub\AboutMe\Invisi3le\devicon-master\icons\cplusplus\cplusplus-original.svg">
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" Width="40px" Height="40px"/>
 
 <!--
 **Invisi3le/Invisi3le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

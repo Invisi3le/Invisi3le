@@ -4,7 +4,7 @@
 
 My name is Monika and I am a student of Computer Science.
 
-<h2 style="color: orange">Technologies I am familiar with:<h2>
+<h2 style="color: orange;">Technologies I am familiar with:<h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" Width="40px" Height="40px"/>
@@ -16,7 +16,7 @@ My name is Monika and I am a student of Computer Science.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" Width="40px" Height="40px"/>
 
 </div>
-<h2 style="color: orange">Technologies I am currently learning:<h2>
+<h2 style="color: orange;">Technologies I am currently learning:<h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" Width="40px" Height="40px" />

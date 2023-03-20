@@ -7,7 +7,7 @@ My name is Monika and I am a student of Computer Science.
 **Technologies I am familiar with:**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" Width="40px" Height="40px"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" Width="40px" Height="40px"/>
 <!--
 **Invisi3le/Invisi3le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +29,4 @@ Technologies I am familiar with:
 Technologies I am currently learning:
 
 - 🌱 I’m currently learning ...
--->
+  -->
